@@ -16,6 +16,13 @@ if config.config_file_name is not None:
 
 # add your model's MetaData object here
 # for 'autogenerate' support
+
+# noinspection PyUnresolvedReference
+from app.db.models.user_model import UserModel
+
+# noinspection PyUnresolvedReference
+from app.db.models.refresh_token_model import RefreshTokenModel 
+
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
 from app.db.database import Base

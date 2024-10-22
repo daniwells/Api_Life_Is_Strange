@@ -1,9 +1,10 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+from decouple import config
 
 SQLALCHEMY_DATABASE_URL = (
-    "postgresql://daniel:postgres@localhost:5433/Api_Life_Is_Strange"
+    config("DATABASE_URL")
 )
 
 # Cria uma instânica da conexão com o banco. Responsável por gerenciar os requisições e interações.
