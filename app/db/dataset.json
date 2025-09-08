@@ -1,0 +1,609 @@
+{
+    "characters":[
+        {
+        "id": 1,
+        "name": "Max Caulfield",
+        "age": 18,
+        "description": "A photography student who discovers she has the ability to turn back time."
+        },
+        {
+        "id": 2,
+        "name": "Chloe Price",
+        "age": 19,
+        "description": "Max's best friend, a rebellious teenager struggling with loss and abandonment."
+        },
+        {
+        "id": 3,
+        "name": "Rachel Amber",
+        "age": 19,
+        "description": "A popular student at Blackwell Academy who mysteriously disappears, sparking the events of the story."
+        },
+        {
+        "id": 4,
+        "name": "Sean Diaz",
+        "age": 16,
+        "description": "A teenager forced to flee with his younger brother after a tragic event."
+        },
+        {
+        "id": 5,
+        "name": "Daniel Diaz",
+        "age": 9,
+        "description": "Sean's younger brother who possesses telekinetic powers."
+        },
+        {
+        "id": 6,
+        "name": "Alex Chen",
+        "age": 21,
+        "description": "A young woman with the supernatural ability to experience, absorb, and manipulate others' emotions."
+        },
+        {
+        "id": 7,
+        "name": "Kate Marsh",
+        "age": 18,
+        "description": "A devout and kind student at Blackwell Academy who becomes the target of bullying."
+        },
+        {
+        "id": 8,
+        "name": "Victoria Chase",
+        "age": 18,
+        "description": "A popular and wealthy student at Blackwell Academy known for her competitive and mean-spirited nature."
+        },
+        {
+        "id": 9,
+        "name": "Nathan Prescott",
+        "age": 19,
+        "description": "A troubled student from a wealthy family who hides dark secrets."
+        },
+        {
+        "id": 10,
+        "name": "Mark Jefferson",
+        "age": 35,
+        "description": "A famous photographer and teacher at Blackwell Academy who plays a significant role in the story's dark turns."
+        },
+        {
+        "id": 11,
+        "name": "David Madsen",
+        "age": 45,
+        "description": "Chloe Price's stepfather, a security officer with a strict, authoritarian demeanor."
+        },
+        {
+        "id": 12,
+        "name": "Joyce Price",
+        "age": 43,
+        "description": "Chloe's caring and hard-working mother, who tries to keep her family together."
+        },
+        {
+        "id": 13,
+        "name": "Frank Bowers",
+        "age": 28,
+        "description": "A local drug dealer with connections to several characters in the story."
+        },
+        {
+        "id": 14,
+        "name": "Warren Graham",
+        "age": 18,
+        "description": "A geeky and kind student at Blackwell Academy who has a crush on Max."
+        },
+        {
+        "id": 15,
+        "name": "Steph Gingrich",
+        "age": 20,
+        "description": "A character who loves tabletop games and plays a significant role in *Before the Storm* and *True Colors*."
+        },
+        {
+        "id": 16,
+        "name": "Eliot Hampden",
+        "age": 19,
+        "description": "A student at Blackwell Academy who has an unrequited crush on Chloe."
+        },
+        {
+        "id": 17,
+        "name": "Samuel Taylor",
+        "age": 40,
+        "description": "The eccentric and mysterious janitor at Blackwell Academy."
+        },
+        {
+        "id": 18,
+        "name": "Mikey North",
+        "age": 16,
+        "description": "Steph's younger brother and a friend of Chloe, who is passionate about tabletop games."
+        },
+        {
+        "id": 19,
+        "name": "Sera Gearhart",
+        "age": 38,
+        "description": "Rachel Amber's biological mother who has a troubled past."
+        },
+        {
+        "id": 20,
+        "name": "Cassidy",
+        "age": 20,
+        "description": "A free-spirited traveler who Sean Diaz meets during his journey in *Life is Strange 2*."
+        },
+        {
+        "id": 21,
+        "name": "Finn",
+        "age": 22,
+        "description": "A charismatic and adventurous member of a group of drifters Sean encounters."
+        },
+        {
+        "id": 22,
+        "name": "Brody Holloway",
+        "age": 32,
+        "description": "A blogger and wanderer who helps Sean and Daniel escape the authorities."
+        },
+        {
+        "id": 23,
+        "name": "Lyla Park",
+        "age": 16,
+        "description": "Sean's best friend who provides emotional support during the early parts of *Life is Strange 2*."
+        },
+        {
+        "id": 24,
+        "name": "Esteban Diaz",
+        "age": 45,
+        "description": "Sean and Daniel's father, whose death triggers the events of *Life is Strange 2*."
+        },
+        {
+        "id": 25,
+        "name": "Gabe Chen",
+        "age": 25,
+        "description": "Alex Chen's older brother whose mysterious death becomes central to *Life is Strange: True Colors*."
+        },
+        {
+        "id": 26,
+        "name": "Eleanor Lethe",
+        "age": 60,
+        "description": "A florist in Haven Springs and the grandmother of Riley, who struggles with memory loss."
+        },
+        {
+        "id": 27,
+        "name": "Ryan Lucan",
+        "age": 24,
+        "description": "A park ranger and close friend of Gabe Chen in *True Colors*."
+        },
+        {
+        "id": 28,
+        "name": "Charlotte Harmon",
+        "age": 27,
+        "description": "A sculptor and the mother of Gabe's stepson Ethan in *True Colors*."
+        },
+        {
+        "id": 29,
+        "name": "Ethan Lambert",
+        "age": 10,
+        "description": "Charlotte's son who accidentally sets off the events that lead to Gabe's death in *True Colors*."
+        },
+        {
+        "id": 30,
+        "name": "Diane Jacobs",
+        "age": 40,
+        "description": "An employee of Typhon, the company responsible for the disaster in *True Colors*."
+        }
+    ],
+    "locals":[
+        {
+          "id": 1,
+          "name": "Arcadia Bay",
+          "description": "A small coastal town in Oregon where the story of Life is Strange takes place, filled with mystery and nostalgia.",
+          "image_url": "https://example.com/images/arcadia_bay.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Blackwell Academy",
+          "description": "A prestigious private school known for its photography program, attended by Max Caulfield.",
+          "image_url": "https://example.com/images/blackwell_academy.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Two Whales Diner",
+          "description": "A classic diner in Arcadia Bay run by Joyce Price, and a common meeting spot for Chloe and Max.",
+          "image_url": "https://example.com/images/two_whales_diner.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Chloe's House",
+          "description": "The home of Chloe Price and her family, where many important conversations and events take place.",
+          "image_url": "https://example.com/images/chloes_house.jpg"
+        },
+        {
+          "id": 5,
+          "name": "The Junkyard",
+          "description": "An abandoned junkyard where Chloe and Rachel used to hang out, later visited by Max and Chloe.",
+          "image_url": "https://example.com/images/junkyard.jpg"
+        },
+        {
+          "id": 6,
+          "name": "The Lighthouse",
+          "description": "A key location on the cliffs overlooking Arcadia Bay, which appears in Max's visions throughout the game.",
+          "image_url": "https://example.com/images/lighthouse.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Prescott Dormitories",
+          "description": "The student dormitories at Blackwell Academy, where Max and many other students live.",
+          "image_url": "https://example.com/images/prescott_dormitories.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Rachel Amber's Hideout",
+          "description": "A secret place where Chloe and Rachel used to meet, which holds many clues to Rachel's disappearance.",
+          "image_url": "https://example.com/images/rachel_hideout.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Haven Springs",
+          "description": "A picturesque town in the mountains of Colorado where Alex Chen moves to start a new life in Life is Strange: True Colors.",
+          "image_url": "https://example.com/images/haven_springs.jpg"
+        },
+        {
+          "id": 10,
+          "name": "The Silver Dragon",
+          "description": "A dispensary in Haven Springs run by Charlotte Harmon, where Alex interacts with several characters.",
+          "image_url": "https://example.com/images/silver_dragon.jpg"
+        },
+        {
+          "id": 11,
+          "name": "The Lantern",
+          "description": "The local bar in Haven Springs, owned by Jed Lucan, where Alex works as a bartender.",
+          "image_url": "https://example.com/images/the_lantern.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diaz House",
+          "description": "The home of Sean and Daniel Diaz, featured at the beginning of Life is Strange 2 before their journey begins.",
+          "image_url": "https://example.com/images/diaz_house.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Mountainside Camp",
+          "description": "A remote camping site where Sean and Daniel rest during their journey in Life is Strange 2.",
+          "image_url": "https://example.com/images/mountainside_camp.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Merrill's Farm",
+          "description": "An illegal marijuana farm where Sean and Daniel work to make money during their travels.",
+          "image_url": "https://example.com/images/merrill_farm.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Away Camp",
+          "description": "A campsite that serves as a temporary refuge for Sean and his group of friends in Life is Strange 2.",
+          "image_url": "https://example.com/images/away_camp.jpg"
+        },
+        {
+          "id": 16,
+          "name": "The Mine",
+          "description": "An abandoned mine near Haven Springs that plays a key role in uncovering the truth behind Gabe's death in True Colors.",
+          "image_url": "https://example.com/images/the_mine.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Lake of the Springs",
+          "description": "A peaceful lake located near Haven Springs, often visited by Alex for moments of reflection.",
+          "image_url": "https://example.com/images/lake_of_springs.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Karen's Desert House",
+          "description": "The secluded house in the desert where Sean and Daniel reunite with their estranged mother, Karen, in Life is Strange 2.",
+          "image_url": "https://example.com/images/karen_house.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Puerto Lobos",
+          "description": "The town in Mexico where Sean and Daniel hope to escape to during their journey in Life is Strange 2.",
+          "image_url": "https://example.com/images/puerto_lobos.jpg"
+        },
+        {
+          "id": 20,
+          "name": "Typhon HQ",
+          "description": "The corporate headquarters of Typhon Mining, the company responsible for a disaster in Haven Springs in True Colors.",
+          "image_url": "https://example.com/images/typhon_hq.jpg"
+        }
+    ],
+    "chapters":[
+        {
+          "id": 1,
+          "name": "Chapter 1: Chrysalis",
+          "release_date": "January 30, 2015",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Max discovers her power to turn back time",
+            "Reunites with Chloe",
+            "Nathan and Kate's confrontation"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Chapter 2: Out of Time",
+          "release_date": "March 24, 2015",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Max tries to prevent Kate's suicide",
+            "Max and Chloe investigate the missing Rachel Amber",
+            "Max has visions of the tornado approaching Arcadia Bay"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Chapter 3: Chaos Theory",
+          "release_date": "May 19, 2015",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Max and Chloe break into Blackwell Academy at night",
+            "Max learns more about Rachel's disappearance",
+            "Max changes the timeline, altering Chloe's fate"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Chapter 4: Dark Room",
+          "release_date": "July 28, 2015",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Max uncovers dark secrets about Blackwell and Arcadia Bay",
+            "Max and Chloe discover Rachel Amber's fate",
+            "The revelation of the 'Dark Room'"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Chapter 5: Polarized",
+          "release_date": "October 20, 2015",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Max faces the consequences of her time-travel powers",
+            "Max is captured and trapped in the Dark Room",
+            "The final decision: Save Chloe or Arcadia Bay"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Episode 1: Roads (Life is Strange 2)",
+          "release_date": "September 27, 2018",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Sean and Daniel Diaz's journey begins",
+            "The brothers flee after a tragedy in Seattle",
+            "Daniel's powers are revealed"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Episode 2: Rules (Life is Strange 2)",
+          "release_date": "January 24, 2019",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Sean and Daniel meet their grandparents",
+            "Daniel struggles to control his powers",
+            "Encounter with Chris from Captain Spirit"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Episode 3: Wastelands (Life is Strange 2)",
+          "release_date": "May 9, 2019",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Sean and Daniel work on a marijuana farm",
+            "Tensions rise between the brothers",
+            "A heist goes wrong, resulting in major consequences"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Episode 4: Faith (Life is Strange 2)",
+          "release_date": "August 22, 2019",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Sean searches for Daniel in the Nevada desert",
+            "Sean confronts a religious cult",
+            "The brothers reunite but face more difficult choices"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Episode 5: Wolves (Life is Strange 2)",
+          "release_date": "December 3, 2019",
+          "average_duration": "3-4 hours",
+          "key_events": [
+            "Sean and Daniel reach the Mexican border",
+            "The brothers must decide their future",
+            "Multiple possible endings depending on player choices"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Chapter 1: Side A (Life is Strange: True Colors)",
+          "release_date": "September 9, 2021",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Alex Chen arrives in Haven Springs",
+            "Alex reunites with her brother Gabe",
+            "Gabe's sudden death shocks Alex"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Chapter 2: Lanterns (Life is Strange: True Colors)",
+          "release_date": "September 9, 2021",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Alex investigates Gabe's death",
+            "Alex's empathy powers grow stronger",
+            "A festival brings the town together"
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Chapter 3: Monster or Mortal (Life is Strange: True Colors)",
+          "release_date": "September 9, 2021",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Alex continues to unravel the mystery behind Gabe's death",
+            "Confrontations with Typhon Mining intensify",
+            "Alex learns more about the hidden dangers in Haven Springs"
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Chapter 4: Flicker (Life is Strange: True Colors)",
+          "release_date": "September 9, 2021",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Alex confronts key figures in Haven Springs",
+            "More secrets about Typhon Mining come to light",
+            "Alex experiences intense emotional revelations"
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Chapter 5: Side B (Life is Strange: True Colors)",
+          "release_date": "September 9, 2021",
+          "average_duration": "2-3 hours",
+          "key_events": [
+            "Alex faces the ultimate decision about her future",
+            "The truth behind Gabe's death is fully revealed",
+            "Multiple possible endings based on player choices"
+          ]
+        }
+    ],
+    "relationships":[
+        {
+          "id": 1,
+          "name": "Max Caulfield e Chloe Price",
+          "relationship_type": "Friendship and Romance",
+          "description": "Best childhood friends who reconnect after years.",
+          "key_moments": [
+            "Reunion after years",
+            "Sharing secrets",
+            "Support during difficult times",
+            "Max helping Chloe through her struggles"
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Max Caulfield e Warren Graham",
+          "relationship_type": "Friendship and Possible Romance",
+          "description": "Max’s classmate who has a crush on her and supports her throughout the game.",
+          "key_moments": [
+            "Warren asking Max out for a movie date",
+            "Warren protecting Max from Nathan",
+            "Their bond growing as Max relies on him"
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Chloe Price e Rachel Amber",
+          "relationship_type": "Friendship and Possible Romance",
+          "description": "Chloe's best friend and possible romantic interest before Rachel’s disappearance.",
+          "key_moments": [
+            "Chloe’s obsession with finding Rachel",
+            "Their time together before Rachel’s disappearance",
+            "Chloe’s deep emotional connection to Rachel"
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Max Caulfield e Kate Marsh",
+          "relationship_type": "Friendship and Support",
+          "description": "Max becomes a close friend to Kate, especially during her time of crisis.",
+          "key_moments": [
+            "Max saving Kate from bullying",
+            "Max trying to stop Kate from jumping off the roof",
+            "Their bond deepening after Max's intervention"
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Chloe Price e David Madsen",
+          "relationship_type": "Strained Family Relationship",
+          "description": "Chloe's difficult relationship with her stepfather, David.",
+          "key_moments": [
+            "Chloe's rebellion against David’s rules",
+            "David's attempts to control Chloe’s behavior",
+            "Tensions during arguments about Chloe’s lifestyle"
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Nathan Prescott e Victoria Chase",
+          "relationship_type": "Friendship and Manipulation",
+          "description": "Victoria and Nathan maintain a friendship with hints of manipulation.",
+          "key_moments": [
+            "Victoria supporting Nathan despite his behavior",
+            "Their involvement in the Dark Room",
+            "The complex dynamic between them and Max"
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Sean Diaz e Daniel Diaz",
+          "relationship_type": "Sibling Bond",
+          "description": "The strong brotherly bond between Sean and Daniel as they navigate hardships together.",
+          "key_moments": [
+            "Sean protecting Daniel during their journey",
+            "Daniel learning to control his powers",
+            "Their relationship evolving through difficult choices"
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Sean Diaz e Cassidy",
+          "relationship_type": "Friendship and Possible Romance",
+          "description": "A close friendship between Sean and Cassidy, with the potential for romance.",
+          "key_moments": [
+            "Their connection growing while working on the farm",
+            "Sean and Cassidy sharing intimate moments",
+            "Cassidy encouraging Sean’s freedom and individuality"
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Alex Chen e Gabe Chen",
+          "relationship_type": "Sibling Bond",
+          "description": "Alex and Gabe share a close sibling bond despite years apart.",
+          "key_moments": [
+            "Alex reuniting with Gabe in Haven Springs",
+            "Gabe helping Alex settle into the town",
+            "Gabe’s tragic death impacting Alex deeply"
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Alex Chen e Steph Gingrich",
+          "relationship_type": "Friendship and Possible Romance",
+          "description": "Steph and Alex share a deep friendship with the possibility of romance.",
+          "key_moments": [
+            "Steph supporting Alex during emotional times",
+            "Their connection through shared interests in music",
+            "Romantic moments depending on player choices"
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Alex Chen e Ryan Lucan",
+          "relationship_type": "Friendship and Possible Romance",
+          "description": "Ryan becomes a close friend and possible love interest for Alex.",
+          "key_moments": [
+            "Ryan comforting Alex after Gabe's death",
+            "Their bond strengthening during the investigation",
+            "Romantic tension depending on player decisions"
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Daniel Diaz e Chris Eriksen",
+          "relationship_type": "Friendship",
+          "description": "Daniel forms a strong bond with Chris, the boy next door who imagines himself as a superhero.",
+          "key_moments": [
+            "Daniel and Chris playing together as superheroes",
+            "Chris teaching Daniel about imagination and bravery",
+            "Their bond growing despite the challenges they face"
+          ]
+        }
+    ] 
+}
+  
